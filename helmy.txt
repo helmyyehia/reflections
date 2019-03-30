@@ -1,2 +1,2 @@
 line 3
-this line edited in the local Repo
+this line's conflict has been resolved
